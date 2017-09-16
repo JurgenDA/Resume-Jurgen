@@ -1,0 +1,36 @@
+body
+{
+    position: relative;
+    font-family: 'Work Sans', sans-serif;
+    color: #333333;
+    background-image: url(../img/dark_wood1.png) !important;
+    background-position:left;
+    background-size:auto;
+    background-repeat:repeat;
+}
+
+h1
+{
+    text-align: center;
+    color: #025AA5;
+}
+
+form
+{
+    position: relative;
+    width: 500px;
+    height: 450px !important;
+    margin: 0 auto;
+}
+
+.title_txt
+{
+    color: antiquewhite;
+}
+
+.container
+{
+    position: relative;
+    padding-top: 10px;
+}
+    
